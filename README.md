@@ -1,0 +1,2 @@
+# neQTujitoK
+本系统是一款基于Springboot和Vue的前后端分离的社团考勤管理系统。主要用途是实现社团成员的考勤管理，核心功能包括成员考勤记录、数据统计与分析等。采用MySQL数据库，Java为开发语言，前端使用Vue和Element-UI，后端使用Springboot和MyBatis Plus技术。系统简洁高效，助力社团高效管理。
